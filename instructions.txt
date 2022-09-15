@@ -5,3 +5,8 @@ cobol2
 install applications 
 
 clone the repo and build.sh
+
+git rebase learning
+
+
+git added for ldap
