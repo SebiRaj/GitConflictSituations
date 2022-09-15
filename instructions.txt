@@ -1,11 +1,7 @@
-ADD C+++++ codes
-ADD C#### coes
+
 
 Java1
 cobol2
 install applications 
 
 clone the repo and build.sh
-
-add python commands
-add virtual envs
