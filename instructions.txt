@@ -1,3 +1,5 @@
 Java1
 cobol2
 install applications 
+
+clone the repo and build.sh
